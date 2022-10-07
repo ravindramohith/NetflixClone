@@ -4,7 +4,7 @@ cloning netflix(non-commercial) using MERN stack.
 ## Getting Started:
 - Go to the each of 3 directories and hit `npm install` to install all the dependencies.
 - Go to `BackEnd/` and hit `nodemon index.js` to start the server and connect to ***Local database***(localhost/netflix).
-- Then, Go to `admin` or `frontend` of our choice whether you want to log in as a user or admin respectively. Each has different functionalities.
+- Then, Go to `admin` or `frontend` of our choice whether you want to log in as a user or admin respectively, and then hit `npm start` to start react's dev server. Each has different functionalities.
 
 ## Tech Stack:
 - **Node.js,Express.js** for Server side, creating **REST APIs**.
